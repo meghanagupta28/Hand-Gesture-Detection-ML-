@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tensorflow
+seaborn
+pandas
+os
+opencv
+sklearn
+cvzone
