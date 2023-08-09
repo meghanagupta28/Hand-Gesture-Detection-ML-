@@ -18,6 +18,8 @@ If the conditions meet, install the required dependancies
 
 The model code is in the form of a notebook and can hence be simply downloaded and run on the system after installation of the prerequisites.
 
+The saved model in the repository can be run from the cell 43 of the notebook. 
+
 ### Results
 
-The model has a test accuracy of 92.05% and has high precision and recall. 
+The model has a test accuracy of 98.93% and has high precision and recall. 
